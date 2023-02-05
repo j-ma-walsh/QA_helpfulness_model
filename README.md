@@ -1,5 +1,5 @@
 # Question Answer Usefulness Model
-#### function to determine if an answer to a questio is useful created using amazon product question answer data
+#### function to determine if an answer to a question is useful created using amazon product question answer data
 
 - Amazon question/answer pair data was obtained.
 - Natural language processing methods were applied to the text data to prepare it.
